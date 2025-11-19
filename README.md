@@ -10,3 +10,13 @@ This repository contains my daily notes, code, and practice files as I learn ML 
 4. NumPy array types
 5. Basic operations
 6. Indexing & Slicing
+
+
+## Day2
+**Topics Covered**
+1. Creating NumPy Arrays
+2. Array Slicing
+3. use randint and randn function
+4. indexing with 2-D array
+5. Array Operations (Math)
+6. Useful NumPy Functions
