@@ -20,3 +20,14 @@ This repository contains my daily notes, code, and practice files as I learn ML 
 4. indexing with 2-D array
 5. Array Operations (Math)
 6. Useful NumPy Functions
+
+## Day3
+**Topics Covered**
+1. Introduction to Pandas
+2. Series and DataFrame Basics
+3. Reading CSV and Excel Files
+4. Viewing Data (head, tail, info, describe)
+5. Selecting Rows and Columns
+6. Filtering Data
+7. Adding & Dropping Columns
+8. Handling Missing Values
